@@ -1,0 +1,20 @@
+{
+    "name": "jworkman/fission",
+    "description": "Fission v3.0 PHP Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Workman",
+            "email": "jworkmandevelopment@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "fission-loader": "3.0",
+        "fission-router": "3.0",
+        "fission-config": "3.0",
+        "fission-model": "3.0",
+        "fission-view": "3.0",
+        "fission-controller": "3.0"
+    }
+}
